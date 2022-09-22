@@ -1,0 +1,3 @@
+﻿  input.c
+C:\Users\Мой ПК\source\repos\Zadanie_2\Zadanie_2\input.c(20,8): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Zadanie_2.vcxproj -> C:\Users\Мой ПК\source\repos\Zadanie_2\x64\Debug\Zadanie_2.exe
