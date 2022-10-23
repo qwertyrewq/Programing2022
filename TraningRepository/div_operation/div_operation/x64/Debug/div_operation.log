@@ -1,0 +1,5 @@
+﻿  div_operation.c
+C:\GitHubProjects\TraningRepository\div_operation\div_operation\div_operation.c(7,10): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+C:\GitHubProjects\TraningRepository\div_operation\div_operation\div_operation.c(8,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "double"
+C:\GitHubProjects\TraningRepository\div_operation\div_operation\div_operation.c(10,2): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+  div_operation.vcxproj -> C:\GitHubProjects\TraningRepository\div_operation\x64\Debug\div_operation.exe
